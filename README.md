@@ -14,3 +14,10 @@ jupyter labextension install @jupyter-widgets/jupyterlab-manager plotlywidget@4.
 Dane epidemiologiczne 
 https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.csv
 
+# Przydatne linki
+- KNIME https://www.knime.com/downloads/download-knime
+- H2O https://www.h2o.ai/ 
+- R https://cran.r-project.org/
+- Julia https://julialang.org/ 
+
+
