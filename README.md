@@ -1,7 +1,7 @@
 # AGH_5
 Seminarium z wizualizacji i redukcji liczby zmiennych wejściowych
 
-Inicjalizacja śeodowiska i instalacja niezbędnych pakietów
+Inicjalizacja środowiska i instalacja niezbędnych pakietów
 
 conda create -n fs_viz
 conda activate fs_viz
