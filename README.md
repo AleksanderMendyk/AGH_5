@@ -20,5 +20,5 @@ https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabete
 - R https://cran.r-project.org/
 - Shiny https://shiny.rstudio.com/
 - Julia https://julialang.org/ 
-
+- Kaggle https://www.kaggle.com/ 
 
